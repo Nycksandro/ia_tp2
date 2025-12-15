@@ -14,6 +14,7 @@ Esse trabalho feito pelos alunos:
 ## 1. Como Executar
 
  * Clone este repositório.
+ * É necessário ter um ambiente ``python versão 3.10``.
  * Tenha um ambiente com as dependÊncias em ``requirements.txt`` instaladas (TensorFlow, Scikit-learn, etc). Rode a celula para instalar as dependências caso necessário. É a primeira celula de código, o comando está comentado caso já tenha um ambiente configurado.
  * O código com o ambiente configurado também está disponível no link: https://www.kaggle.com/code/arthurcapucho/classificacao-de-lixo-cnn-ipynb
  * Para executar através do kaggle, será necessário "copiar e editar" o notebook no site.
